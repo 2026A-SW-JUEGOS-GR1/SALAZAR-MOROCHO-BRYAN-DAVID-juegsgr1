@@ -1,0 +1,31 @@
+{
+    "activeFile": "mapa.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "mapa.json": {
+            "scale": 0.6076041666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.75312875021433,
+                "y": 320.1097205554603
+            }
+        },
+        "spritesheet-tiles-default.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ander/Downloads/kenney_new-platformer-pack-1.1/Spritesheets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "mapa.json",
+        "spritesheet-tiles-default.tsx"
+    ],
+    "project": "00-2d-.tiled-project",
+    "recentFiles": [
+        "spritesheet-tiles-default.tsx",
+        "mapa.json"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
